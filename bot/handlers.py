@@ -17,3 +17,5 @@ def handle_message(message_text, chat_id):
     else:
         print("Сообщение не содержит тегов #День или #Ночь.")
 
+
+
